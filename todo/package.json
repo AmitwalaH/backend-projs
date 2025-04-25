@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KrishJ4856",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^11.1.0",
+    "dotenv": "^16.5.0",
+    "inquirer": "^9.3.7",
+    "mongoose": "^7.8.6",
+    "nanoid": "^4.0.2",
+    "ora": "^7.0.1"
+  },
+  "bin": {
+    "todo": "index.js"
+  }
+}
