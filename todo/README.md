@@ -1,7 +1,7 @@
 # Task Manager CLI Tool
 This is a task manager CLI tool built using NodeJS and CommanderJS.
 
-# The project URL
+# Project URL
 https://roadmap.sh/projects/task-tracker
 
 ## Setting up the tool
